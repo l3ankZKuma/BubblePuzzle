@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Arial.spritefont</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Arrow.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Assets/Pokeball.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Black.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Logo.jpg</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/MenuScreen/backButton.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/MenuScreen/BG.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/MenuScreen/exitButton.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/MenuScreen/optionButton.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/MenuScreen/scoresButton.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/MenuScreen/startButton.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/MenuScreen/translationScreen.jpg</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Musics/marioGameOver.wav</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Musics/MenuScreen/translationScreen.wav</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Musics/PlayScreen/awesome.wav</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Musics/PlayScreen/dattebayo.wav</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Musics/pokemonMUSIC.mp3</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/PlayScreen/BG2.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/PlayScreen/bubble.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/PlayScreen/hand1.png</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/transition t07 two-step 007.wav</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/UI_SoundPack11_Select_v14.wav</File>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/UI_SoundPack8_Error_v1.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
